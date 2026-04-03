@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi, I'm Isaac Khoo 👋
+## About Me
+I am an Electronics Engineering student.
 
+### Current Activities
+1. Building an IoT monitoring system.
+2. Learning operating system concepts.
 <!--
 **isaac0831/isaac0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: isaac@graduate.utm.my
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
