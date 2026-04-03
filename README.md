@@ -1,8 +1,8 @@
 # Hi, I'm Isaac Khoo 👋
 
-🎓 Year 4 Electronics Engineering student.  
-🔭 I’m currently building an IoT monitoring system.  
-📫 How to reach me: isaac@graduate.utm.my
+- 🎓 Year 4 Electronics Engineering student.  
+- 🔭 I’m currently building an IoT monitoring system.  
+- 📫 How to reach me: isaac@graduate.utm.my
 
 <!--
 **isaac0831/isaac0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
